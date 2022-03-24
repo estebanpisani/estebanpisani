@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently looking for my first job as a **backend developer.**
 
-- 🌱 I’m currently learning **Full Stack Development.**
+- 🌱 I’m currently learning **Full Stack Development.** in [https://argentinaprograma.inti.gob.ar/](Argentina Programa)
 
 - 📫 How to reach me: **estebandpisani@gmail.com**
 
-- 📄 Know about my experiences on my LinkedIn profile: [https://www.linkedin.com/in/esteban-pisani/](https://www.linkedin.com/in/esteban-pisani/)
+- 📄 Know about my experiences on my [https://www.linkedin.com/in/esteban-pisani/](LinkedIn profile)
 
 - ⚡ Fun fact: When I'm not coding, I'm a musician and music producer :sweat_smile: :notes:
 

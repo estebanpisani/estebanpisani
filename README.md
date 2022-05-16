@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Esteban!</h1>
-<h3 align="center">A backend developer from Rosario, Argentina.</h3>
+<h3 align="center">Full Stack developer from Rosario, Argentina.</h3>
 
 - 🔭 I’m currently looking for my first job as a **backend developer.**
 

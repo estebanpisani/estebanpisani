@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently looking for my first job as a **backend developer.**
 
-- 🌱 I’m currently learning **Full Stack Development.** in [Argentina Programa](https://argentinaprograma.inti.gob.ar/)
+- 🌱 I’m currently learning **Full Stack Development** in [Argentina Programa](https://argentinaprograma.inti.gob.ar/) and [MindHub](https://mindhubweb.com/)
 
 - 📫 How to reach me: **estebandpisani@gmail.com**
 

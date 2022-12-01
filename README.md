@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=estebanpisani&label=Profile%20views&color=0e75b6&style=flat" alt="estebanpisani" /> </p>
 
-- 📖 I’m currently learning Full Stack Development at [Argentina Programa](https://argentinaprograma.inti.gob.ar/)
-
 - 📫 How to reach me: **estebandpisani@gmail.com**
 
 - 📄 Know about my experiences on my [LinkedIn Profile](https://www.linkedin.com/in/esteban-pisani/)

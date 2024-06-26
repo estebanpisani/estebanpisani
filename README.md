@@ -48,7 +48,3 @@
 <h2 align="left">Stats:</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estebanpisani&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=estebanpisani&show_icons=true&theme=tokyonight&locale=en" alt="estebanpisani" /></p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=estebanpisani&theme=tokyonight)](https://git.io/streak-stats)
